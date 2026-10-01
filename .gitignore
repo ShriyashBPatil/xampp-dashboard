@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# PHP uploads and local sessions
+sessions/
+*.log
+*.sql
+*.zip
+*.tar.gz
+
+# IDE & OS
+.DS_Store
+.idea/
+.vscode/
